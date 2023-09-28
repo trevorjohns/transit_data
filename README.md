@@ -16,10 +16,6 @@ To get started with this project, follow these steps:
 
 1. Clone this repository to your local machine.
 
-```shell
-git clone <repository_url>
-```
-
 2. setup your airflow this could be down locally or with cloud such as on AWS
 
 4. setup you database, currently configured for dynamoDB but could be modified for otehr noSQL DBs 
